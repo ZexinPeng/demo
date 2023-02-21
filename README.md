@@ -13,7 +13,7 @@ grant all on db_example.* to 'springuser'@'%';            -- Gives all privilege
 ```
 
 # step 2
-start spring boot application
+start spring boot application on port 8080
 
 # step 3
-start angular project
+start the angular application on port 4200
